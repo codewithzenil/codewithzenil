@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zenil Timbadiya</h1>
 <h3 align="center">Founder and Instructor of Tutoring Agency CodeWithZenil.</h3>
 
+- 🔭 I’m currently Teaching Coding to **School Kids.**
+
+- 🌱 I’m currently Pursuing B.Tech From **Indus University.**
+
+- 👯 I’m looking to collaborate on **Creating Coding Course for Kids.**
+
 - 📫 How to reach me **codewithzenil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
